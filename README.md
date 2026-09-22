@@ -1,4 +1,4 @@
-# 🚗 Smart Parking Barrier Gate System (Arduino Uno R3)
+#  Smart Parking Barrier Gate System (Arduino Uno R3)
 
 Sistem Palang Parkir Otomatis berbasis **Arduino Uno R3** yang memanfaatkan **Sensor Ultrasonik (3-Pin)** untuk mendeteksi keberadaan kendaraan, **Motor Servo SG90** sebagai penggerak palang pintu, serta **LCD 16x2 I2C**, **Active Buzzer**, dan **LED** sebagai indikator status interaktif [1-3].
 
